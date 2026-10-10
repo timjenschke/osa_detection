@@ -14,7 +14,7 @@ This script downloads a selected group of subjects from cohort I0002 of the Huma
 https://bdsp.io/content/hsp/3.0/  
 
 The methods create_subject_set_for_download() is responsbile for subject selection. 
-Before usage replace bucket name with your alias. 
+Before usage replace bucket name with your alias and change METADATA_CSV_I0002 and CSV_AHI.
 
 """
 
