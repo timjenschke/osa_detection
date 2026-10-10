@@ -1,0 +1,13 @@
+numpy
+pandas
+mne
+boto3
+botocore[crt]
+scipy
+py-ecg-detectors
+PyWavelets
+pyarrow
+tenacity
+scikit-learn
+torch
+feature-engine
